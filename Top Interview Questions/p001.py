@@ -1,8 +1,11 @@
 # https://leetcode.com/problem-list/top-interview-questions/
-# https://leetcode.com/problems/two-sum/
+
+# https://github.com/bekowashere/LeetCode-Solutions
+
 from typing import List
 
 
+# https://leetcode.com/problems/two-sum/
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         seen = {}
